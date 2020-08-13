@@ -1,4 +1,4 @@
-# (elftatius.github.io)[https://elftatius.github.io/]
+# [elftatius.github.io](https://elftatius.github.io/)
 
 **VERSION 0.0.3**
 
